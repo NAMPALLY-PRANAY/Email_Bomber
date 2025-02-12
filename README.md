@@ -44,10 +44,15 @@ Configuration
 *   Replace `SENDER_EMAIL` with your Gmail address.
 *   Generate an **App Password** from your Google Account security settings and replace `APP_PASSWORD` in the code.
 
+# Working Project ScreenShots:
+![image](https://github.com/user-attachments/assets/e54fd141-8490-4581-8981-b5e6a439acf1)
+
+
 Disclaimer
 ----------
 
 This tool is meant for educational purposes only. Sending unsolicited emails in bulk can violate email provider policies and legal regulations. Use responsibly.
+----------
 
 License
 -------
